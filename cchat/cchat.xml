@@ -1,0 +1,48 @@
+﻿<cchat
+CChat部分参数说明：
+
+<!--房间id，用于创建不同房间-->
+roomid = "cchat"
+
+<!--房间名称-->
+roomname = "CChat"
+
+<!--初始用户名-->
+username = ""
+
+<!--保留用户名，一般用户不能使用这些名称-->
+reserved = "晨风,管理,cenfun,颓废,7huo｜焱燚"
+
+<!--是否允许修改名称，如果被指定了名称后-->
+allow_rename = ""
+
+<!--自动打开直播-->
+auto_live = ""
+
+<!--指定网络最大带宽 1G-->
+bandwidth = "1000000000"
+
+<!--CMP的地址-->
+cmp_url = "cmp.swf"
+
+<!--自动打开CMP-->
+cmp_autoload = ""
+
+<!--聊天室公告-->
+announce = "欢迎来访{roomname}聊天室, 请遵纪守法文明交流，禁止发布任何非法和不和谐信息"
+
+<!--背景色-->
+bgcolor = "f5f5f5"
+
+<!--通知声音配置-->
+sound = "enter.mp3,message.mp3"
+
+<!--管理秘密的密文,用本目录下的capm.swf生成-->
+admin = "C53F6F684A4B7B5552BD9F4B43117F67"
+
+<!--禁止发送的文字-->
+badwords = ""
+
+<!--统计-->
+counter = "http://img.users.51.la/5492210.asp"
+/>
