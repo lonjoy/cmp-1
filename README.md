@@ -13,7 +13,7 @@
 <P>交流论坛：http://bbs.cenfun.com &nbsp;&nbsp; http://www.meenet.cn &nbsp;&nbsp;<a href="http://cmp.meenet.cn">CMP手册</a></P>
 <P>====================================================</P>
 <P>二，本目录说明<BR>&nbsp;&nbsp;&nbsp; +--/<a href="https://github.com/meenet/cmp/tree/master/cfplay">cfplay</a>/&nbsp;&nbsp;  CMP1版本程序目录<BR>
-&nbsp;&nbsp;&nbsp; +--/<a href="https://github.com/meenet/cmp/tree/master/cmpcfplay2">cfplay2</a>/&nbsp; CMP2版本程序目录<BR>
+&nbsp;&nbsp;&nbsp; +--/<a href="https://github.com/meenet/cmp/tree/master/cfplay2">cfplay2</a>/&nbsp; CMP2版本程序目录<BR>
 &nbsp;&nbsp;&nbsp; +--/<a href="https://github.com/meenet/cmp/tree/master/cmp2.1">cmp2.1</a>/&nbsp;&nbsp;&nbsp;&nbsp; CMP2.1版本程序目录【自本版本开始使用CMP简称】<BR>
 &nbsp;&nbsp;&nbsp; +--/<a href="https://github.com/meenet/cmp/tree/master/cmp3">cmp3</a>/&nbsp;&nbsp;&nbsp;&nbsp; CMP3版本程序目录<BR>
 &nbsp;&nbsp;&nbsp; +--/<a href="https://github.com/meenet/cmp/tree/master/cmp4">cmp4</a>/&nbsp;&nbsp;&nbsp;&nbsp; CMP4版本程序目录<BR>
